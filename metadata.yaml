@@ -1,0 +1,51 @@
+_repo: Cautionary-Tales-for-Children_27424
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: B. T. B. (Basil Temple Blackwood)
+    aliases:
+    - Hamilton-Temple-Blackwood, Ian Basil Gawaine, Lord
+    - Blackwood, Basil T.
+    birthdate: &id001 1870
+    deathdate: 1917
+    gutenberg_agent_id: '32512'
+    url: http://www.gutenberg.org/2009/agents/32512
+covers:
+- cover_type: archival
+  image_path: 27424-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: *id001
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: 'From the Publisher: One of Hilaire Belloc''s most famous works, "Cautionary
+  Tales for Children" satirizes a genre of admonitory children''s literature popular
+  in England in the late 18th and 19th centuries.  The seven stories contained in
+  this work are macabre parodies of childhood lessons, and will entertain more sophisticated
+  readers who can appreciate these tales of disproportionate punishment.  Presented
+  in a classic picture book style, illustrators have captured the foibles of children
+  like Jim, who let go of his nurse''s hand and was eaten by a lion; Matilda, who
+  told lies, and was burned to death; and Henry King who swallowed string.  The consequences
+  range from naughty children being whimsically eaten by lions, to stern reprimands
+  for a boy who fires a loaded gun at his sister.  Originally written nearly a century
+  ago, Belloc''s sprightly verses are a quick and cathartic read for teenagers, and
+  reflect a trend of literature that is still popular today.'
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PR'
+title: Cautionary Tales for Children
+url: http://www.gutenberg.org/ebooks/27424
