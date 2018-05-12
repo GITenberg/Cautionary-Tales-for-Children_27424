@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Hamilton-Temple-Blackwood, Ian Basil Gawaine, Lord
     - Blackwood, Basil T.
-    birthdate: &id001 1870
+    birthdate: 1870
     deathdate: 1917
     gutenberg_agent_id: '32512'
     url: http://www.gutenberg.org/2009/agents/32512
@@ -17,7 +17,7 @@ creator:
   author:
     agent_name: Belloc, Hilaire
     alias: Belloc, Joseph Hilaire Pierre
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1953
     gutenberg_agent_id: '2437'
     url: http://www.gutenberg.org/2009/agents/2437
@@ -34,6 +34,8 @@ description: 'From the Publisher: One of Hilaire Belloc''s most famous works, "C
   for a boy who fires a loaded gun at his sister.  Originally written nearly a century
   ago, Belloc''s sprightly verses are a quick and cathartic read for teenagers, and
   reflect a trend of literature that is still popular today.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27424#Cautionary-Tales-for-Children
 gutenberg_issued: '2008-12-05'
 gutenberg_type: Text
 identifiers:
